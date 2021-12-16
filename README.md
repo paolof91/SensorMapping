@@ -1,6 +1,6 @@
 # SensorMapping
 It creates an occupancy grid map from planar laser data and detects a rotated box
-
+See https://github.com/paolof91/SensorMapping/blob/main/2021-09-10_Q-Bot-SensorMappingCodingChallenge.pdf for further explanation of the code.
 __________________________
 DELIVERABLES
 
