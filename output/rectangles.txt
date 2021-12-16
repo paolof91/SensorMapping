@@ -1,0 +1,11 @@
+
+Straight rectangle:
+	bottom left corner (x,y)=(4.01,4.99)
+	size (w,h)=(6,2)
+
+
+Rotated rectangle:
+	centre (x,y)=(7.005,5.995)
+	size (w,h)=(1.99,5.99)
+	orientation [deg] angle=90
+
